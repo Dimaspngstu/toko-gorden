@@ -1,0 +1,136 @@
+body {
+  background: #eee;
+}
+
+.chat-list {
+  padding: 0;
+  font-size: .8rem;
+}
+
+.chat-list li {
+  margin-bottom: 10px;
+  overflow: auto;
+  color: #ffffff;
+}
+
+.chat-list .chat-img {
+  float: right;
+  width: 48px;
+}
+
+.chat-list .chat-img img {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  width: 100%;
+}
+
+.chat-list .chat-message {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  background: #5a99ee;
+  display: inline-block;
+  padding: 10px 20px;
+  position: relative;
+}
+
+.chat-list .chat-message:before {
+  content: "";
+  position: absolute;
+  top: 15px;
+  width: 0;
+  height: 0;
+}
+
+.chat-list .chat-message h5 {
+  margin: 0 0 5px 0;
+  font-weight: 600;
+  line-height: 100%;
+  font-size: .9rem;
+}
+
+.chat-list .chat-message p {
+  line-height: 18px;
+  margin: 0;
+  padding: 0;
+}
+
+.chat-list .chat-body {
+  margin-right: 20px;
+  float: right;
+  /* width: 70%; */
+  /* width: 30%; */
+  width: auto;
+}
+
+.chat-list .in .chat-message:before {
+  right: -12px;
+  border-bottom: 20px solid transparent;
+  border-left: 20px solid #5a99ee;
+  /* opacity: 0; */
+}
+
+.chat-list .out .chat-img {
+  float: left;
+}
+
+.chat-list .out .chat-body {
+  float: left;
+  margin-left: 20px;
+  text-align: left;
+}
+
+.chat-list .out .chat-message {
+  background: #fc6d4c;
+}
+
+.chat-list .out .chat-message:before {
+  left: -12px;
+  border-bottom: 20px solid transparent;
+  border-right: 20px solid #fc6d4c;
+  /* opacity: 0; */
+}
+
+.card .card-header:first-child {
+  -webkit-border-radius: 0.3rem 0.3rem 0 0;
+  -moz-border-radius: 0.3rem 0.3rem 0 0;
+  border-radius: 0.3rem 0.3rem 0 0;
+}
+
+.card .card-header {
+  background: #17202b;
+  border: 0;
+  font-size: 1rem;
+  padding: .65rem 1rem;
+  position: relative;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.content {
+  max-height: 500px;
+  /* margin-top: 40px; */
+  overflow-y: scroll;
+}
+
+.link_bot {
+  color: yellow !important;
+}
+
+.link_bot:hover {
+  color: lightyellow !important;
+}
+
+.gambar_bot {
+  width: 100%;
+}
+
+/* .col-satu {
+  width: 20%;
+  float: left;
+}
+
+.col-dua {
+  float: left;
+} */
