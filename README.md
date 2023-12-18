@@ -31,3 +31,5 @@ PHP 7.4 keatas
 # Info Login
 Admin
 - id:admin pass:admin
+
+# Silakan Berkreasi sesuka kalian jangan lupa klik starnya
