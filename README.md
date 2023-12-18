@@ -30,4 +30,4 @@ PHP 7.4 keatas
 
 # Info Login
 Admin
-id:admin pass:admin
+- id:admin pass:admin
