@@ -1,5 +1,5 @@
 # Website Toko Gorden 
-Website ini saya buat untuk pada saat skripsi 
+Website ini saya buat untuk tugas skripsi saya menggunakan php native dan bootstrap 
 
 # Teknologi yang digunakan
 - PHP
