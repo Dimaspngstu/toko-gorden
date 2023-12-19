@@ -32,4 +32,5 @@ PHP 7.4 keatas
 Admin
 - id:admin pass:admin
 
-# Silakan Berkreasi sesuka kalian jangan lupa klik starnya
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
