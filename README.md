@@ -32,5 +32,6 @@ PHP 7.4 keatas
 Admin
 - id:admin pass:admin
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+Linked 
+https://www.linkedin.com/in/dimas-pangestu-70b0a9261/
 
